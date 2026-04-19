@@ -1,0 +1,6 @@
+venv/
+*.py
+*.pyc
+__pycache__/
+github_activity.py
+.pr_*.tmp
